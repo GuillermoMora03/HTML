@@ -68,10 +68,17 @@
         grid-gap: 30px;
         padding: 35px 0px;
     }
+    video{
+        width: 100%;
+    }
+}
+
+.red-social {
+    margin-left: 130px;
 }
 
 body{
-    background-color: #21232A;
+    background-color: #0a141d;
     font-size: 1.6rem;
     line-height: 1.5;
 }
@@ -118,7 +125,7 @@ section img:hover{
 }
 
 .contenedor{
-    max-width: 120rem;
+    max-width: 90%;
     margin: 0 auto;
 }
 
